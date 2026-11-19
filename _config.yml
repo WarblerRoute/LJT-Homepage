@@ -92,16 +92,38 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 include:
   - .htaccess
   - _pages
-  - files
+
 exclude:
   - .bundle
   - .github
   - .sass-cache
   - .jekyll-assets-cache
+  - AGENTS.md
+  - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gemfile.lock
+  - LICENSE
   - node_modules
+  - package.json
+  - package-lock.json
   - vendor
+  - README.md
+  - files
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - images/500x300.png
+  - images/bio-photo.jpg
+  - images/bio-photo-2.jpg
+  - images/editing-talk.png
+  - images/og-image.png
+  - images/themes
+  - images/wiki
+
 keep_files:
   - .git
   - .svn
