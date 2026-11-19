@@ -10,7 +10,6 @@ repository: "WarblerRoute/LJT-Homepage"
 
 # Site author
 author:
-  avatar: "profile.png"
   name: "Junteng Liu"
   bio: "First-year PhD candidate at HKUST NLP Group researching natural language processing and machine learning."
   employer: "HKUST NLP Group"
@@ -106,6 +105,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+
 
 sass:
   sass_dir: _sass
