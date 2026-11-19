@@ -3,9 +3,6 @@ layout: single
 permalink: /
 title: "Junteng Liu"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 ## Personal Details
